@@ -1,0 +1,221 @@
+@media screen and (max-width: 768px) {
+  hr {
+    width: 350px;
+  }
+  .mahindra {
+    .navbar {
+      form {
+        display: none;
+      }
+      .navbar-toggler {
+        font-size: 40px;
+      }
+    }
+    .collapsible_nav {
+      ul {
+        display: block;
+      }
+    }
+    .xuv {
+      &_bg {
+        padding: 0;
+        .xuvcar {
+          margin-top: -65px;
+          //   margin-left: 60px;
+          //   width: 300%;
+          position: relative;
+        }
+        .xuv700 {
+          width: 100%;
+        }
+      }
+      .para {
+        position: absolute;
+        text-align: center;
+        line-height: 30px;
+        font-weight: 400;
+        /* width: 818px; */
+        /* margin-left: 32px; */
+        margin-top: -201px;
+        p {
+          font-size: 16px;
+        }
+      }
+    }
+    .offers {
+      bottom: -201px;
+      left: 0;
+    }
+    .imgtext {
+      margin-top: 422px;
+      &_img {
+        position: relative;
+        img {
+          width: 100%;
+        }
+      }
+      &_text {
+        position: absolute;
+        // bottom: 580px;
+        top: -262px;
+        margin-left: 20px;
+        left: 0;
+        p {
+          font-size: 18px;
+        }
+      }
+    }
+    .price {
+      //   margin-top: -550px;
+      margin-top: 190px;
+      &_text {
+        p {
+          font-size: 18px;
+        }
+      }
+      &_img {
+        img {
+          width: 100%;
+        }
+      }
+    }
+    .advice {
+      padding-top: 50px;
+
+      &_left {
+        position: static;
+        p {
+          font-size: 18px;
+        }
+      }
+      &_img {
+        img {
+          position: static;
+          width: 100%;
+        }
+      }
+    }
+    .tab2 {
+      #tabsContent {
+        p {
+          font-size: 18px;
+        }
+      }
+      img {
+        width: 100%;
+      }
+    }
+    .pros {
+      margin-top: -94px;
+      &_left {
+        h2 {
+          font-size: 61px;
+        }
+        h3 {
+          font-size: 30px;
+        }
+        p {
+          font-size: 18px;
+        }
+        .pros_img {
+          img {
+            width: 100%;
+          }
+        }
+      }
+    }
+
+    .user_review {
+      .head {
+        button {
+          padding: 5px 5px;
+          font-size: 15px;
+        }
+        .head_rating {
+          .rating {
+            .checked,
+            .fa-star-half-full {
+              font-size: 24px;
+              padding-top: 0;
+            }
+          }
+          .sidetext {
+            padding-top: 6px;
+            h5 {
+              font-size: 30px;
+            }
+            h6 {
+              font-size: 10px;
+              padding-top: 12px;
+            }
+          }
+        }
+        h2 {
+          font-size: 61px;
+        }
+        h3 {
+          font-size: 30px;
+        }
+      }
+    }
+    .videos {
+      padding: 50px 0 0 0;
+      &_section {
+        h2,
+        h3 {
+          font-size: 61px;
+          text-align: center;
+        }
+        .text {
+          p {
+            padding-top: 20px;
+            text-align: center;
+            font-size: 18px;
+          }
+        }
+      }
+      .video_img {
+        img {
+          width: 100%;
+        }
+      }
+      .video_img_text {
+        display: block;
+        .text {
+          padding-left: 0;
+        }
+      }
+    }
+    .table {
+      table {
+        thead {
+          th {
+            font-size: 18px;
+            line-height: 23px;
+            vertical-align: middle;
+          }
+        }
+        tbody {
+          tr {
+            th,
+            td {
+              font-size: 14px;
+            }
+          }
+        }
+      }
+    }
+    .offers {
+      .right {
+        padding-left: 0;
+        &_up,
+        &_down {
+          .right_up_text,
+          .right_down_text {
+            width: 130px;
+          }
+        }
+      }
+    }
+  }
+}

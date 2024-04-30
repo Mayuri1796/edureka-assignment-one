@@ -1,0 +1,165 @@
+@media screen and (max-width: 768px) {
+  hr {
+    width: 350px;
+  }
+  .mahindra .navbar form {
+    display: none;
+  }
+  .mahindra .navbar .navbar-toggler {
+    font-size: 40px;
+  }
+  .mahindra .collapsible_nav ul {
+    display: block;
+  }
+  .mahindra .xuv_bg {
+    padding: 0;
+  }
+  .mahindra .xuv_bg .xuvcar {
+    margin-top: -65px;
+    position: relative;
+  }
+  .mahindra .xuv_bg .xuv700 {
+    width: 100%;
+  }
+  .mahindra .xuv .para {
+    position: absolute;
+    text-align: center;
+    line-height: 30px;
+    font-weight: 400;
+    /* width: 818px; */
+    /* margin-left: 32px; */
+    margin-top: -201px;
+  }
+  .mahindra .xuv .para p {
+    font-size: 16px;
+  }
+  .mahindra .offers {
+    bottom: -201px;
+    left: 0;
+  }
+  .mahindra .imgtext {
+    margin-top: 422px;
+  }
+  .mahindra .imgtext_img {
+    position: relative;
+  }
+  .mahindra .imgtext_img img {
+    width: 100%;
+  }
+  .mahindra .imgtext_text {
+    position: absolute;
+    top: -262px;
+    margin-left: 20px;
+    left: 0;
+  }
+  .mahindra .imgtext_text p {
+    font-size: 18px;
+  }
+  .mahindra .price {
+    margin-top: 190px;
+  }
+  .mahindra .price_text p {
+    font-size: 18px;
+  }
+  .mahindra .price_img img {
+    width: 100%;
+  }
+  .mahindra .advice {
+    padding-top: 50px;
+  }
+  .mahindra .advice_left {
+    position: static;
+  }
+  .mahindra .advice_left p {
+    font-size: 18px;
+  }
+  .mahindra .advice_img img {
+    position: static;
+    width: 100%;
+  }
+  .mahindra .tab2 #tabsContent p {
+    font-size: 18px;
+  }
+  .mahindra .tab2 img {
+    width: 100%;
+  }
+  .mahindra .pros {
+    margin-top: -94px;
+  }
+  .mahindra .pros_left h2 {
+    font-size: 61px;
+  }
+  .mahindra .pros_left h3 {
+    font-size: 30px;
+  }
+  .mahindra .pros_left p {
+    font-size: 18px;
+  }
+  .mahindra .pros_left .pros_img img {
+    width: 100%;
+  }
+  .mahindra .user_review .head button {
+    padding: 5px 5px;
+    font-size: 15px;
+  }
+  .mahindra .user_review .head .head_rating .rating .checked,
+  .mahindra .user_review .head .head_rating .rating .fa-star-half-full {
+    font-size: 24px;
+    padding-top: 0;
+  }
+  .mahindra .user_review .head .head_rating .sidetext {
+    padding-top: 6px;
+  }
+  .mahindra .user_review .head .head_rating .sidetext h5 {
+    font-size: 30px;
+  }
+  .mahindra .user_review .head .head_rating .sidetext h6 {
+    font-size: 10px;
+    padding-top: 12px;
+  }
+  .mahindra .user_review .head h2 {
+    font-size: 61px;
+  }
+  .mahindra .user_review .head h3 {
+    font-size: 30px;
+  }
+  .mahindra .videos {
+    padding: 50px 0 0 0;
+  }
+  .mahindra .videos_section h2,
+  .mahindra .videos_section h3 {
+    font-size: 61px;
+    text-align: center;
+  }
+  .mahindra .videos_section .text p {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+  .mahindra .videos .video_img img {
+    width: 100%;
+  }
+  .mahindra .videos .video_img_text {
+    display: block;
+  }
+  .mahindra .videos .video_img_text .text {
+    padding-left: 0;
+  }
+  .mahindra .table table thead th {
+    font-size: 18px;
+    line-height: 23px;
+    vertical-align: middle;
+  }
+  .mahindra .table table tbody tr th,
+  .mahindra .table table tbody tr td {
+    font-size: 14px;
+  }
+  .mahindra .offers .right {
+    padding-left: 0;
+  }
+  .mahindra .offers .right_up .right_up_text,
+  .mahindra .offers .right_up .right_down_text, .mahindra .offers .right_down .right_up_text,
+  .mahindra .offers .right_down .right_down_text {
+    width: 130px;
+  }
+}/*# sourceMappingURL=responsive.css.map */

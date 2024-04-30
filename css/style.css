@@ -1,0 +1,466 @@
+body {
+  background-color: #000 !important;
+}
+
+p {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+hr {
+  border: 2px solid white !important;
+  width: 1274px;
+  margin-top: 144px;
+}
+
+.mahindra .navbar {
+  display: block;
+  padding: 22px 0;
+}
+.mahindra .navbar .navbar-toggler {
+  border-color: rgba(10, 10, 10, 0.1) !important;
+  color: #fff;
+  display: inline-block;
+}
+.mahindra .navbar form {
+  display: inline-block;
+  padding-left: 38px;
+  position: relative;
+}
+.mahindra .navbar form .form-control {
+  border-radius: 12px;
+  background: #595959;
+  border: none;
+  height: 28px;
+  width: 444px;
+}
+.mahindra .navbar form .fa-search {
+  position: absolute;
+  padding: 5px 0px;
+  color: #fff;
+  left: 50px;
+}
+.mahindra .navbar form .fa-arrow-right {
+  position: absolute;
+  right: 20px;
+  color: #fff;
+  top: 6px;
+}
+.mahindra .collapsible_nav ul {
+  display: flex;
+  list-style-type: none;
+  padding: 22px 0 22px 72px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.mahindra .collapsible_nav ul li {
+  padding-right: 61px;
+  font-weight: 300;
+  line-height: 30px;
+}
+.mahindra .collapsible_nav ul li a {
+  color: #fff;
+  font-size: 24px;
+  line-height: 30px;
+}
+.mahindra .collapsible_nav ul li a.active {
+  color: #ffac30;
+  font-weight: 700;
+}
+.mahindra .collapsible_nav ul li .dropdown-menu {
+  background: #ffac30;
+}
+.mahindra .collapsible_nav_bg {
+  background-color: #000;
+}
+.mahindra .xuv_bg .xuvcar {
+  margin-top: -115px;
+  width: 100%;
+}
+.mahindra .xuv .para {
+  margin-top: -540px;
+  color: #fff;
+  text-align: center;
+  line-height: 30px;
+  font-weight: 400;
+}
+.mahindra .offers {
+  position: absolute;
+  bottom: -350px;
+  left: 388px;
+}
+.mahindra .offers_div {
+  display: flex;
+}
+.mahindra .offers .left_text h2 {
+  color: #fff;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 600;
+}
+.mahindra .offers .left_text h3 {
+  color: #fff;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 600;
+}
+.mahindra .offers .left_text .checked,
+.mahindra .offers .left_text .fa-star-half-full {
+  color: orange;
+}
+.mahindra .offers .left_text h6 {
+  color: #55c2ff;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 700;
+}
+.mahindra .offers .right {
+  padding-left: 88px;
+}
+.mahindra .offers .right_up, .mahindra .offers .right_down {
+  display: flex;
+}
+.mahindra .offers .right_up_text, .mahindra .offers .right_down_text {
+  width: 200px;
+}
+.mahindra .offers .right_up .engine h5, .mahindra .offers .right_down .engine h5 {
+  color: #55c2ff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+.mahindra .offers .right_up .engine h6, .mahindra .offers .right_down .engine h6 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fff;
+}
+.mahindra .imgtext {
+  margin-top: -150px;
+}
+.mahindra .imgtext_img {
+  position: relative;
+}
+.mahindra .imgtext_text {
+  margin-left: 100px;
+  position: absolute;
+  /* left: 570px; */
+  top: 24px;
+}
+.mahindra .imgtext_text p {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 35px;
+}
+.mahindra .imgtext_text button {
+  margin-top: 43px;
+  background-color: #ffac30;
+  color: #000;
+  border-radius: 26px;
+  padding: 10px 23px;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 600;
+}
+.mahindra .price {
+  background-image: url(img/annie-spratt.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  margin-top: -800px;
+  color: #fff;
+}
+.mahindra .price_text h2 {
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 80px;
+}
+.mahindra .tabs .nav-tabs {
+  border: none;
+  text-indent: -37px;
+}
+.mahindra .tabs .nav-tabs .nav-link {
+  color: #ffac30;
+  font-size: 28px;
+  line-height: 35px;
+  font-weight: 700;
+  border: none;
+  background-color: transparent;
+}
+.mahindra .tabs .tab-content .tab-pane table thead tr {
+  background: #464646;
+  border: none;
+  color: #55c2ff;
+  font-size: 24px;
+  line-height: 30px;
+}
+.mahindra .tabs .tab-content .tab-pane table td {
+  vertical-align: middle;
+}
+.mahindra .tabs .tab-content .tab-pane table td button {
+  background-color: transparent;
+  color: #fff;
+  border-radius: 20px;
+  padding: 7px 32px;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 400;
+  border: 1px solid #ffac30;
+}
+.mahindra .tabs .tab-content .tab-pane table td h6 {
+  color: #ffac30;
+}
+.mahindra .tabs .tab-content .tab-pane table h5 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #fff;
+}
+.mahindra .tabs .tab-content .tab-pane table h6 {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 25px;
+  color: #fff;
+}
+.mahindra .table h2 {
+  color: #fff;
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 600;
+}
+.mahindra .table table {
+  margin-top: 46px;
+  color: #fff;
+}
+.mahindra .table table thead {
+  background: #454545;
+  border-radius: 12px;
+  border: none;
+}
+.mahindra .table table thead th {
+  color: #55c2ff;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+}
+.mahindra .table table tbody tr th,
+.mahindra .table table tbody tr td {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  padding-top: 22px;
+}
+.mahindra .advice {
+  padding-top: 195px;
+}
+.mahindra .advice_left {
+  position: relative;
+}
+.mahindra .advice_left h3 {
+  color: #ffac30;
+  font-weight: 200;
+  font-size: 64px;
+  line-height: 82px;
+}
+.mahindra .advice_left h2 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 96px;
+  line-height: 123px;
+}
+.mahindra .advice_left p {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 47px;
+  color: #fff;
+}
+.mahindra .advice_img img {
+  position: absolute;
+  top: 0;
+  right: -175px;
+}
+.mahindra .tab2 .nav-item {
+  padding-right: 67px;
+}
+.mahindra .tab2 .nav-item a {
+  color: #ffac30;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 41px;
+}
+.mahindra .tab2 .nav-item .nav-link.active {
+  background-color: transparent;
+  border: none;
+}
+.mahindra .tab2 .nav-item .nav-link:hover {
+  border: none;
+}
+.mahindra .pros {
+  margin-top: -260px;
+}
+.mahindra .pros_left {
+  display: flex;
+}
+.mahindra .pros_left h3 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 73px;
+}
+.mahindra .pros_left h2 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 96px;
+  line-height: 123px;
+}
+.mahindra .pros_left p {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 47px;
+  color: #fff;
+}
+.mahindra .amazing {
+  padding-bottom: 179px;
+}
+.mahindra .amazing_heading h5 {
+  color: #00ba6c;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  padding-top: 34px;
+}
+.mahindra .amazing_heading2 h5 {
+  color: #fe5959;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 53px;
+  padding-top: 34px;
+}
+.mahindra .amazing_list {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  padding-top: 49px;
+  color: #fff;
+}
+.mahindra .user_review {
+  display: flex;
+}
+.mahindra .user_review img {
+  padding-left: 26px;
+}
+.mahindra .user_review .head h2,
+.mahindra .user_review .head h3 {
+  font-weight: 300;
+  font-size: 96px;
+  line-height: 90px;
+  color: #fff;
+}
+.mahindra .user_review .head h3 {
+  font-weight: 500;
+}
+.mahindra .user_review .head .head_rating .rating .checked,
+.mahindra .user_review .head .head_rating .rating .fa-star-half-full {
+  color: orange;
+  font-size: 50px;
+  padding-top: 25px;
+}
+.mahindra .user_review .head .head_rating .sidetext {
+  padding-top: 25px;
+  padding-left: 20px;
+  color: #fff;
+}
+.mahindra .user_review .head .head_rating .sidetext h5 {
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 94px;
+}
+.mahindra .user_review .head .head_rating .sidetext h6 {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  padding-top: 32px;
+}
+.mahindra .user_review .head button {
+  color: #ffac30;
+  border: 1px solid #ffac30;
+  border-radius: 20px;
+  background-color: transparent;
+  padding: 9px 32px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+.mahindra .user .filter_column {
+  border: 1px solid #fff;
+  padding: 21px 24px;
+  color: #fff;
+  margin-top: 20px;
+}
+.mahindra .user .filter_column p {
+  padding-bottom: 64px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  padding-top: 10px;
+}
+.mahindra .user .filter_column h6 {
+  font-size: 13px;
+  line-height: 16px;
+  font-weight: 500;
+}
+.mahindra .user .filter .rating .checked,
+.mahindra .user .filter .rating .fa-star-half-full {
+  color: orange;
+  font-size: 19px;
+  padding-top: 25px;
+}
+.mahindra .user .view button {
+  color: #ffac30;
+  border: 1px solid #ffac30;
+  border-radius: 20px;
+  background-color: transparent;
+  padding: 9px 32px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  display: flex;
+  margin: auto;
+  margin-top: 94px;
+  align-items: center;
+}
+.mahindra .videos {
+  padding: 158px 0;
+}
+.mahindra .videos_section h2,
+.mahindra .videos_section h3 {
+  font-weight: 300;
+  font-size: 96px;
+  line-height: 90px;
+  color: #fff;
+}
+.mahindra .videos_section h3 {
+  font-weight: 700;
+}
+.mahindra .videos_section .icon {
+  width: 162px;
+  height: 162px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  margin: auto;
+}
+.mahindra .videos_section .icon img {
+  padding: 40px 51px;
+}
+.mahindra .videos_section .video_img img {
+  width: 140%;
+}
+.mahindra .videos_section .video_img_text {
+  display: flex;
+}
+.mahindra .videos_section .video_img_text .text {
+  padding-left: 15px;
+}/*# sourceMappingURL=style.css.map */
